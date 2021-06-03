@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 > ### Main stack 
-![img](https://img.shields.io/badge/HTML5-F1F1F1?style=plastic&logo=HTML5&logoColor=#FF6C00) 
-![img](https://img.shields.io/badge/CSS-F1F1F1?style=plastic&logo=CSS3&logoColor=blue) 
-![img](https://img.shields.io/badge/Javascript-F1F1F1?style=plastic&logo=Javascript&logoColor=yellow) 
-![img](https://img.shields.io/badge/React-F1F1F1?style=plastic&logo=React&logoColor=blue)  
-![img](https://img.shields.io/badge/SASS-F1F1F1?style=plastic&logo=SASS&logoColor=pink) 
+![img](https://img.shields.io/badge/HTML5-F1F1F1?style=plastic&logo=HTML5&logoColor=#FF6C00)
+![img](https://img.shields.io/badge/CSS-F1F1F1?style=plastic&logo=CSS3&logoColor=blue)
+![img](https://img.shields.io/badge/Javascript-F1F1F1?style=plastic&logo=Javascript&logoColor=yellow)
+![img](https://img.shields.io/badge/React-F1F1F1?style=plastic&logo=React&logoColor=blue)
+![img](https://img.shields.io/badge/SASS-F1F1F1?style=plastic&logo=SASS&logoColor=pink)
 > ### Sub stack
 ![img](https://img.shields.io/badge/Svelte-F1F1F1?style=plastic&logo=Svelte&logoColor=kaki) 
 ![img](https://img.shields.io/badge/Vue.js-F1F1F1?style=plastic&logo=Vue&logoColor=kaki) 
